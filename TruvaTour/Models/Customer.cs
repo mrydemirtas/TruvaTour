@@ -11,6 +11,9 @@ namespace TruvaTour.Models
 {
     public class Customer:IBuy,IEvaluate
     {
+
+
+
         private string _name;
         private string _surname;
         private string _TCNO;
